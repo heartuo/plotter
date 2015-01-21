@@ -26,6 +26,7 @@ Then you can just navigate to the project directory and run make to compile the 
 ```bash
 make
 ```
+The compilation will take some time (at least on my machine), somewhere between 30 to 40 seconds, so please be patient. 
 
 Also you can use make clean to clean the directory: 
 
